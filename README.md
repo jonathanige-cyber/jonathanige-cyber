@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**jonathanige-cyber/jonathanige-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a T Level Digital Support & Security student specialising in Network & Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in:
+
+- Cybersecurity
+- Networking
+- Network infrastructure
+- IT support
+- System administration
+- Troubleshooting
+
+I'm aiming to progress into a Cybersecurity Degree Apprenticeship after completing my T Level.
